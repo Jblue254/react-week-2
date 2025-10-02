@@ -3,7 +3,8 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Home from "./Home";
 import About from "./About";
-import Portfolio from "./portfolio";
+import Portfolio from "./Portfolio";
+
 import Contact from "./Contact";
 import { useTheme } from "./components/ThemeContext";
 

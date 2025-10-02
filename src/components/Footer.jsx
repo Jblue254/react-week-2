@@ -42,7 +42,7 @@ function Footer() {
             <input type="email" placeholder="Enter your email" />
 
             <label>Mobile No:</label>
-            <input type="tel" placeholder="+254..." />
+            <input type="tel" placeholder="0705" />
 
             <label>Message:</label>
             <textarea rows="3" placeholder="Write a message"></textarea>
