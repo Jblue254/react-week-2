@@ -4,7 +4,7 @@ function Contact() {
   return (
     <section className="contact-container">
       <div className="contact-image">
-        <img src="/Telephone.jpg" alt="Phone illustration" />
+        <img src="\public\Telephone.jpg" alt="Phone illustration" />
       </div>
 
       <div className="contact-card">
