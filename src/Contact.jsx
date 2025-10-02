@@ -30,7 +30,7 @@ function Contact() {
 
           <p>
             <img src="/Gmail.jpg" alt="Gmail" />
-            <a href="mailto:yourname@gmail.com">yourname@gmail.com</a>
+            <a href="mailto:yourname@gmail.com">japhethkiprono2020@gmail.com</a>
           </p>
 
           <p>
