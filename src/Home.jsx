@@ -15,7 +15,7 @@ function Home() {
       </div>
 
       <div className="more-info">
-        <p><strong>Skills:</strong> HTML5, CSS3, JavaScript, React, Python, Django</p>
+        <p><strong>Skills:</strong> HTML5, CSS, JavaScript, React, Tailwind</p>
         <p><strong>Experience:</strong> 3 yrs in Cooperative Bank</p>
         <p><strong>Education:</strong> Zindua School</p>
         <p><strong>Location:</strong> Countrywide</p>
